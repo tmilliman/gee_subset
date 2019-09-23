@@ -95,7 +95,7 @@ if __name__ == "__main__":
         print("Date Last: {}".format(date_last))
 
     start_year = int(date_first.split('-')[0])
-    end_year = 2017
+    end_year = 2018
     bands = tuple(['Nadir_Reflectance_Band1',
                    'Nadir_Reflectance_Band2',
                    'Nadir_Reflectance_Band3'])
